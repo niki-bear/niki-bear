@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niki-bear
 - 👀 I’m interested in programming and data science 
-- 🌱 I’m currently learning python and other cs languages 
+- 🌱 I’m currently learning Python and other CS languages 
 - 💞️ I’m looking to collaborate on any coding projects 
 - 📫 How to reach me: anikasingh715@gmail.com 
 
